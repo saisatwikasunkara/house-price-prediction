@@ -78,24 +78,6 @@ A Linear Regression model is trained on housing data and integrated into a Flask
 
 ---
 
-## 📁 Project Structure
-
-house-price-prediction
-│
-├── data/
-├── templates/
-│   └── index.html
-│
-├── app.py
-├── train_model.py
-├── house_price_model.pkl
-├── requirements.txt
-├── Procfile
-└── README.md
-```
-
----
-
 ## 🌟 Key Features
 
 * Real-time house price prediction
