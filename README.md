@@ -107,30 +107,6 @@ house-price-prediction
 
 ---
 
-## 📸 Screenshots
-
-### Home Page
-
-<img width="1889" height="864" alt="image" src="https://github.com/user-attachments/assets/7e3c61fe-0ddb-463a-8ec5-9373fea8f8cb" />
-
-
-### Prediction Result
-
-<img width="1885" height="870" alt="image" src="https://github.com/user-attachments/assets/0905f3cf-92cd-4603-82a0-2d83ab60c1e6" />
-
-
----
-
-## 📚 Future Improvements
-
-* Support for multiple ML algorithms
-* Advanced feature engineering
-* Interactive data visualization dashboard
-* Location-based predictions
-* Model performance comparison
-
----
-
 ## 👩‍💻 Author
 
 **Satwika Sunkara**
